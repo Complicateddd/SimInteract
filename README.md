@@ -37,9 +37,9 @@
 
     - Nano: Fineturn with 200 epochs
 
-      |                                                              | img_size | mAP(0.5) | mAP(0.5:0.95) | Params      | epoch      |
-      | :----------------------------------------------------------: | -------- | -------- | ------------- | ----------- | ---------- |
-      | YOLOv5-s (version 1.0 https://github.com/ultralytics/yolov5/tree/5e970d45c44fff11d1eb29bfc21bed9553abf986 ) | 640      | 91.7     | 58.1          | 27.6M (pth) | ~300 (15h) |
+      |                                                              | img_size | mAP(0.5) | mAP(0.5:0.95) | Params       | epoch      |
+      | :----------------------------------------------------------: | -------- | -------- | ------------- | ------------ | ---------- |
+      | YOLOv5-s ([v-1.0]( https://github.com/ultralytics/yolov5/tree/5e970d45c44fff11d1eb29bfc21bed9553abf986 )) | 640      | 91.7     | 58.1          | 27.6M (.pth) | ~300 (15h) |
 
     - Demo
 
