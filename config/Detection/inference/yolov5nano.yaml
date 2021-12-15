@@ -1,0 +1,10 @@
+imagesize: 640
+conf_thres: 0.45
+max_det: 1000
+iou_thres: 0.4
+classes: ~
+agnostic_nms: false
+half: false
+augment: false
+device : 'cuda:0'
+weights: '/media/ubuntu/data/Simweights/weights/yolov5hand_nano.pth'
